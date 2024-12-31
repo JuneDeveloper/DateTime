@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DateTime</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="save">Сохранить</string>
+    <string name="birthday">День рождения</string>
+    <string name="phoneNumber">Телефон</string>
+    <string name="age">Возраст</string>
+    <string name="exit">Выход</string>
+    <string name="day">D</string>
+    <string name="month">M</string>
+    <string name="year">Y</string>
+</resources>
